@@ -26,8 +26,6 @@
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-## Tabulation
-
 ## Graph
 
 <img width="1315" height="383" alt="exp 1 graph" src="https://github.com/user-attachments/assets/3060cf1e-4fa3-494d-84cf-cd53f53b054e" />
