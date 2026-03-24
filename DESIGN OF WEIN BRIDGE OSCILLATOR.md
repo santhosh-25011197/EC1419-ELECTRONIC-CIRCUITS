@@ -12,12 +12,23 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
+## Circuit diagram
 
-## Tabulation
+<img width="1599" height="894" alt="image" src="https://github.com/user-attachments/assets/10df3a4d-7e90-4316-9761-1a1640abd7fa" />
+
+![WhatsApp Image 2026-03-21 at 3 24 07 PM](https://github.com/user-attachments/assets/6abebd0d-ecf7-4a3a-b102-00e482f599b3)
+
 
 ## Graph
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
+
+![WhatsApp Image 2026-03-21 at 3 24 07 PM (1)](https://github.com/user-attachments/assets/f0720819-6fd3-4024-b281-b0790758c1db)
+
+## Calculation
+
+<img width="1599" height="894" alt="image" src="https://github.com/user-attachments/assets/935fac96-c37b-4947-8765-7c06871790b6" />
+
 
 Practical frequency of Oscillation =
 
