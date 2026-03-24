@@ -14,7 +14,9 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+<img width="1152" height="735" alt="exp1 circuit" src="https://github.com/user-attachments/assets/cbee6ade-363e-4dd2-8ce9-2c99aa1f25bb" />
+
+<img width="1315" height="383" alt="exp 1 graph" src="https://github.com/user-attachments/assets/ab7cf310-53d2-4368-92e0-dc149fb84c53" />
 
 
 ## MODEL GRAPH
@@ -22,16 +24,21 @@
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
-<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
-
-## Tabulation
 
 ## Graph
 
+<img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
+
+## Calculation
+
+![WhatsApp Image 2026-03-24 at 9 33 16 PM](https://github.com/user-attachments/assets/aa56fbb3-0bee-42db-80ab-0583d1bc648b)
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
 **VOLTAGE GAIN =**
+68db
 
 **BANDWIDTH =**
+
+69.9Mhz
