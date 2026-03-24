@@ -6,9 +6,20 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+## Circuit diagram
+
+![WhatsApp Image 2026-03-21 at 3 24 35 PM](https://github.com/user-attachments/assets/b89c9c8a-b6b5-48d2-b33a-7bf9d31a5e2a)
+
+<img width="1599" height="894" alt="image" src="https://github.com/user-attachments/assets/a109dacc-8ca9-4171-b4d0-31f5625502aa" />
+
+
+## Model graph
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/2a6e52ff-e285-45f1-b6a3-467173d9360e" />
 
 ## Graph
+
+![WhatsApp Image 2026-03-21 at 3 24 35 PM (1)](https://github.com/user-attachments/assets/9d26c93c-57ab-44cf-98fc-f987d9507829)
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
