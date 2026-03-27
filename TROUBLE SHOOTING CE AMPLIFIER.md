@@ -12,10 +12,14 @@
 
 <img width="894" height="1599" alt="image" src="https://github.com/user-attachments/assets/2f5f17a6-bf65-4647-9038-987d10dbe4fc" />
 
+## Model Graph
+<img width="894" height="1599" alt="image" src="https://github.com/user-attachments/assets/c98d317f-2154-4b72-9d0a-2e43fb2752bc" />
+
 
 ## Semilog Graph
 
-<img width="894" height="1599" alt="image" src="https://github.com/user-attachments/assets/c98d317f-2154-4b72-9d0a-2e43fb2752bc" />
+
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/5ffe45c1-3ad4-45d8-a8c6-27ddcebd6bb8" />
 
 
 <img width="894" height="1599" alt="image" src="https://github.com/user-attachments/assets/efd44bf4-d9af-4dd1-8f28-27c68b55ad9a" />
