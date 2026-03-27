@@ -6,7 +6,18 @@
 
 ## ATTACH THE CORRECT CIRCUIT
 
+<img width="1599" height="894" alt="image" src="https://github.com/user-attachments/assets/5bf2dd8b-21b9-4df8-95e8-7af450c30739" />
+
+## Model Graph
+
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/9668c180-ce14-44e1-8fb4-de959d20bf77" />
+
+
 ## GRAPHS
+
+<img width="894" height="1599" alt="image" src="https://github.com/user-attachments/assets/e082749d-9503-48b0-a574-83e675d1f456" />
+
+
 
 
 <img width="936" height="122" alt="image" src="https://github.com/user-attachments/assets/2d2e2399-6a9f-49ec-b40c-3c2982d4b82c" />
