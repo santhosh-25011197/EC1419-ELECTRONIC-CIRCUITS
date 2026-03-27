@@ -14,9 +14,8 @@
 
 ## CIRCUIT DIAGRAM
 
-<img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+<img width="1716" height="849" alt="Screenshot 2026-03-27 103551" src="https://github.com/user-attachments/assets/946420fe-b354-44b1-b27b-fbc955b35ec5" />
 
-![WhatsApp Image 2026-03-24 at 9 43 28 PM](https://github.com/user-attachments/assets/ba310061-167b-43f4-9d88-e9bbf131feae)
 
 
 ## MODEL GRAPH
